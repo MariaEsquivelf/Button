@@ -1,0 +1,31 @@
+
+button{
+    display: block;
+    margin: 4px;
+}
+#search_Button{
+    border-color: rgb(14, 223, 167);
+    color:  rgb(14, 223, 167);
+    height: 3em;
+    width: 15em;
+    border-radius: 2em ;
+    margin-top: 5em;
+    font-size: 0.9em;
+}
+#mas_Button{
+    border-radius: 2em;
+    width: 2em;
+    height: 2em;
+    border: none;
+    color: rgb(255, 255, 255);
+    font-size: 1em;
+    background-color: rgb(14, 223, 167);
+}
+#create_Button{
+    width: 20em;
+    height: 3em;
+    border: 0.2em solid black   ;
+    background-color: rgb(102, 159, 238);
+    color: white;
+    box-shadow: 0.3em 0.3em  rgb(0, 0, 0) ;
+}
